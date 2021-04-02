@@ -24,3 +24,10 @@ git push -u origin main/Storqese.io-Sk1_cashapp...^
 When you submit a pull request, a CLA bot will automatically determine whether you need Storqese.io and decorate the PR appropriately (e.g., st
 
 This project has adopted the Microsoft Open Source Code of Conduct. For more information see the Code of Conduct FAQ or contact open.
+echo "# verbose-disco" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Storqese-io/verbose-disco.git
+git push -u origin main
