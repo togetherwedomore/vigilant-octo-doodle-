@@ -1,5 +1,26 @@
 # vigilant-octo-doodle-
+This example code ( soon )
+@include bg-red, bg-blue;
 
+.btn {
+    @apply border, focus:outline;
+}
+compoler will generate...
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.btn {
+    border: 1px solid gray;
+}
+.btn:focus {
+    outline: 1px solid blue;
+}
 # Alibaba-Clone-Script-WEBSITE-SCRIPTS
 BEST ALIBABA CLONE SCRIPTIf you are planning to start your Travel booking website then Our Script is the best choice for you.This script enable you to run your own profitable Travel booking website within few hours.We assure this script can change your booking business
 Alibaba Clone Script comes with Mobile Application – Both Android and IOS
