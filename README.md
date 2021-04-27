@@ -21,7 +21,7 @@ compoler will generate...
 .btn:focus {
     outline: 1px solid blue;
 }
-# Alibaba-Clone-Script-WEBSITE-SCRIPTS
+# Alibaba-Clone-Script-WEBSITE-SCRIPTS planning
 BEST ALIBABA CLONE SCRIPTIf you are planning to start your Travel booking website then Our Script is the best choice for you.This script enable you to run your own profitable Travel booking website within few hours.We assure this script can change your booking business
 Alibaba Clone Script comes with Mobile Application – Both Android and IOS
 Alibaba Clone Script would like to be one or alternative method identical and if you would like to start out a website if you're reaching to purchase or sell your merchandise directly and it ought to the shoppers with none injury therefore this can the most effective method you have got chosen. then you have got reached the &help on-line importance is quickly increasing day to day. Its right time to start out your own on-line business to business mistreatment our Alibaba Clone Script featured with b2b marketplace possibility. this can be the right place wherever patrons and sellers to search out out trade possibility and to push their business on-line. This script consists of multiple item sorts like merchandise, sell offers, buy offers, trade shows, and Business directory. Our B2B script connects little and medium sized patrons and suppliers from everywhere the globe underneath this domain
@@ -42,6 +42,9 @@ Few More Features
 SEO FEATURES
 #
 
+.bg-red {
+    background-color: red;
+}
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
@@ -50,7 +53,10 @@ SOURCEDIR     = .
 BUILDDIR      = _build
 
 # Put it first so that "make" without argument is like "make help".
-help:
+help:.bg-red {
+    background-color: red;
+}
+
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 .PHONY: help Makefile
@@ -73,7 +79,7 @@ git push -u origin main/Storqese
 git init-A0uth
 git add README.md
 git jsnode -m "StoQLRK commit"
-git branch -M main/Storqese.io
+git branch -M main/Storqese.io btn { border: 1px solid gray; 
 git remote add origin https://github.com/togetherwedomore/vigilant-octo-doodle.git
 git push -u origin main/Storqese.io-Sk1_cashapp...^
 
