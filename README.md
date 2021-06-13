@@ -22,10 +22,10 @@ compoler will generate...
     outline: 1px solid blue;
 }
 # Alibaba-Clone-Script-WEBSITE-SCRIPTS planning
-BEST ALIBABA CLONE SCRIPTIf you are planning to start your Travel booking website then Our Script is the best choice for you.This script enable you to run your own profitable Travel booking website within few hours.We assure this script can change your booking business
+BEST ALIBABA CLONE SCRIPTIf you are planning to start STQLRK Travel booking website then Our Script is the best choice for you.This script enable you to run your own profitable Travel booking website within few hours.We assure this script can change your booking business
 Alibaba Clone Script comes with Mobile Application – Both Android and IOS
 Alibaba Clone Script would like to be one or alternative method identical and if you would like to start out a website if you're reaching to purchase or sell your merchandise directly and it ought to the shoppers with none injury therefore this can the most effective method you have got chosen. then you have got reached the &help on-line importance is quickly increasing day to day. Its right time to start out your own on-line business to business mistreatment our Alibaba Clone Script featured with b2b marketplace possibility. this can be the right place wherever patrons and sellers to search out out trade possibility and to push their business on-line. This script consists of multiple item sorts like merchandise, sell offers, buy offers, trade shows, and Business directory. Our B2B script connects little and medium sized patrons and suppliers from everywhere the globe underneath this domain
-KILLER FEATURES
+JUPROCK FEATURES
 PRIMARY FEATURES
 AMAZING FEATURES
 Email Templates
@@ -37,7 +37,7 @@ Multiple Item types
 Email verification & CAPTCHA
 UNIQUE FEATURES
 ADVANCED FEATURES
-GENERAL FEATURES
+ADMIRAL FEATURES
 Few More Features
 SEO FEATURES
 #
@@ -47,7 +47,7 @@ SEO FEATURES
 }
 # You can set these variables from the command line.
 SPHINXOPTS    =
-SPHINXBUILD   = sphinx-build
+SPHINXBUILD   = sphinx-build-Storqese
 SPHINXPROJ    = medallion
 SOURCEDIR     = .
 BUILDDIR      = _build
